@@ -1,4 +1,6 @@
 # ANN-based-Controllers-for-CSTH-Process
 Two linear Artificial Neural Network (ANN)-based controllers for the control of a nonlinear system are presented. The optimization and pole placement control design strategies are used. For both strategies, linear ANNs are used to model a Continuous Stirred Tank Heater (CSTH) process. Third-order discrete-time models or Adaline ANNs are used whose parameters are updated at every sampling time to provide adaptability to the controllers. Simulation tests show that the linear ANN-based controllers can overcome strong nonlinear coupling effects, reject step disturbances, and provide adequate damping to the subsystem interactions. Both ANN-based control design strategies are shown to be interchangeable with each other for the control of the CSTH process.
 
+Further research was done on three-input-three-output systems. An unpublished paper on the education of ANN-based controllers with coupling and decoupling techniques was written. Feel free to contact me for more details.
+
 Published paper: G. J. Nicholas Ang, L. Huang and C. Min Lim, "Artificial Neural Network-Based Controllers for A Continuous Stirred Tank Heater Process," 2018 15th International Conference on Control, Automation, Robotics and Vision (ICARCV), 2018, pp. 1414-1419, doi: 10.1109/ICARCV.2018.8581301.
